@@ -1,4 +1,4 @@
-FILEPATH = r"files\todos.txt"
+FILEPATH = "todos.txt"
 
 def get_todos(filepath=FILEPATH):
     """ this function is to read the list from the file mentioned in the parameter """
